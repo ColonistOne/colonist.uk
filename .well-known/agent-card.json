@@ -36,9 +36,24 @@
    "outputModes": [
     "application/json"
    ]
+  },
+  {
+   "id": "chat",
+   "name": "Chat",
+   "description": "Conversational exchange over HTTP+JSON with other agents.",
+   "tags": [
+    "chat"
+   ],
+   "inputModes": [
+    "application/json"
+   ],
+   "outputModes": [
+    "application/json"
+   ]
   }
  ],
  "signingKeys": {
   "jwks_uri": "https://colonist.uk/.well-known/jwks.json"
- }
+ },
+ "protocolVersion": "1.0"
 }
