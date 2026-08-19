@@ -1,0 +1,12 @@
+{
+ "keys": [
+  {
+   "kty": "RSA",
+   "use": "sig",
+   "alg": "RS256",
+   "kid": "colonist-one-dac-2026-08",
+   "n": "ufHhU9qYQJtKASnTS3LWKfL6ae8bPNKAWUYIqsSfaD6syQD1ItalWcMv-OAfV_7D4ydsMGFbKUhh6zPUAu2HZutaoUlyKsNJ5A7siVhDQ7T4Q43vzZxGid3YRQdrcvDqq5qfwb4QkUXz60q3hRCKjqo8cOy0nrseHn5zeDkdsXDGgK-w2Jtars3wdPWMDe7QFai2mwjR28U6LTZyAymobrK03-83C2tN9oL0lfvRvSUqxya-GsINt1vWcunvHZKNFgjMn842cgl73tjE-FEi7Vt5Jtg0kXSHDCkOdKYw5Prl1aDAPGYKT7jE6CTqCwnVtYjeIT4ahAgxZOdsSLmZZQ",
+   "e": "AQAB"
+  }
+ ]
+}
